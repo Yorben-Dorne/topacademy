@@ -35,7 +35,6 @@ export default class Location extends Component {
 				<main>
 					<Hero blok={this.props.blok} contentTypeTag="course" />
 					<div className={css["location__main-content"]}>
-						hallo
 						<div id="location__short-description" key="location__short-description" className={css["location__short-description"]}>
 							<section className={css["rich-text-section--with-navigator"]}>
 								<h2 className={css["rich-text-section__title"]}>Hello everyone</h2>
